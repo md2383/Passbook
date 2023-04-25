@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/md2383/Passbook">
-    <img src="![image](https://user-images.githubusercontent.com/98360526/234372226-25c9c726-a5d3-4f29-a139-384ed1140a47.png)" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">PassBook - An iOS Password Keeper</h3>
 </div>
 
